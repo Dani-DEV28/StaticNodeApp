@@ -1,3 +1,4 @@
-html {
-    background-color: red;
+.card {
+    display: flex;
+    flex-direction: row;
 }
